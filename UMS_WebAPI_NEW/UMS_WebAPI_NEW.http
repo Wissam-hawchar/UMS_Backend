@@ -1,0 +1,6 @@
+@UMS_WebAPI_NEW_HostAddress = http://localhost:5011
+
+GET {{UMS_WebAPI_NEW_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
